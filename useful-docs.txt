@@ -1,0 +1,57 @@
+Migration Guide
+https://learn.microsoft.com/en-us/dotnet/navigate/migration-guide/
+
+IIS Architecture
+https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/introduction-to-iis-architecture
+https://learn.microsoft.com/en-us/iis/application-frameworks/building-and-running-aspnet-applications/aspnet-integration-with-iis
+https://learn.microsoft.com/en-us/archive/blogs/tmarq/asp-net-thread-usage-on-iis-7-5-iis-7-0-and-iis-6-0
+
+IIS CLI
+https://learn.microsoft.com/en-us/iis/get-started/getting-started-with-iis/getting-started-with-appcmdexe (AppCmd)
+https://learn.microsoft.com/en-us/iis/get-started/whats-new-in-iis-10/iisadministration-powershell-cmdlets (IISAdministration)
+https://learn.microsoft.com/en-us/iis/install/installing-iis-85/installing-iis-85-on-windows-server-2012-r2#install-iis-85-using-dism
+
+IIS Manager UI Walkthrough
+https://learn.microsoft.com/en-us/iis/get-started/getting-started-with-iis/getting-started-with-the-iis-manager-in-iis-7-and-iis-8
+
+IIS Configuration System
+https://learn.microsoft.com/en-us/iis/get-started/planning-your-iis-architecture/the-configuration-system-in-iis-7
+https://learn.microsoft.com/en-us/dotnet/framework/configure-apps/file-schema/web/applicationpool-element-web-settings
+https://learn.microsoft.com/en-us/iis/configuration/system.applicationHost/applicationPools/add/
+
+IIS Remote Administration WMSVC (Web Management Service)
+https://learn.microsoft.com/en-us/iis/manage/remote-administration/remote-administration-for-iis-manager
+https://learn.microsoft.com/en-us/iis/manage/remote-administration/configuring-remote-administration-and-feature-delegation-in-iis-7
+https://learn.microsoft.com/en-us/iis/web-hosting/verifying-the-deployment/verifying-remote-administration
+
+IIS Application Initialization
+https://learn.microsoft.com/en-us/iis/get-started/whats-new-in-iis-8/iis-80-application-initialization
+https://www.stefangeiger.ch/2021/03/15/iis-application-initialization-setup.html
+https://www.stefangeiger.ch/2021/05/05/iis-application-initialization-troubleshooting.html
+
+PerfView
+https://devblogs.microsoft.com/dotnet/improving-your-apps-performance-with-perfview/#perfview-trace-collection
+
+LogCatcher
+https://learn.microsoft.com/en-us/troubleshoot/developer/webapps/iis/health-diagnostic-performance/data-collection-strategies
+https://github.com/NL-Cristi/LogCatcher
+
+LogParser
+https://learn.microsoft.com/en-us/troubleshoot/developer/webapps/iis/health-diagnostic-performance/troubleshoot-iis-perf-issues-or-app-errors
+
+Performance
+https://learn.microsoft.com/en-us/troubleshoot/developer/webapps/iis/health-diagnostic-performance/troubleshoot-high-cpu-in-iis-app-pool
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742546(v=technet.10)
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742467(v=technet.10)
+https://learn.microsoft.com/en-US/troubleshoot/developer/webapps/aspnet/health-diagnostic-performance/performance-call-web-service
+
+FAQ (some useful stuff)
+https://learn.microsoft.com/en-us/iis/web-hosting/frequently-asked-questions-faq/general-iis7-questions
+https://learn.microsoft.com/en-us/iis/web-hosting/frequently-asked-questions-faq/top-10-changes-in-iis7
+
+Troubleshooting Guides/Deep Dives
+https://www.leansentry.com/guide
+
+Bloggers
+https://mvolo.com/ (Mike Volodarsky, Lead Devleoper @ LeanSentry, previously @ Microsoft on IIS)
+https://www.tessferrandez.com/ (Principal Software Engineer at Microsoft)
