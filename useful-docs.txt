@@ -40,10 +40,23 @@ LogParser
 https://learn.microsoft.com/en-us/troubleshoot/developer/webapps/iis/health-diagnostic-performance/troubleshoot-iis-perf-issues-or-app-errors
 
 Performance
+https://learn.microsoft.com/en-us/windows-server/administration/performance-tuning/role/web-server/tuning-iis-10
 https://learn.microsoft.com/en-us/troubleshoot/developer/webapps/iis/health-diagnostic-performance/troubleshoot-high-cpu-in-iis-app-pool
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742546(v=technet.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742467(v=technet.10)
 https://learn.microsoft.com/en-US/troubleshoot/developer/webapps/aspnet/health-diagnostic-performance/performance-call-web-service
+
+Chapter 6 — Improving ASP.NET Performance
+https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ff647787(v=pandp.10)
+
+IIS and ASP.NET basic information diagnostic
+https://learn.microsoft.com/en-us/troubleshoot/developer/webapps/aspnet/health-diagnostic-performance/iis-and-aspnet-diagnostic
+
+Debug mode in ASP.NET applications
+https://learn.microsoft.com/en-US/troubleshoot/developer/webapps/aspnet/site-behavior-performance/debug-mode-applications
+
+IIS Best Practices
+https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/iis-best-practices/ba-p/1241577
 
 FAQ (some useful stuff)
 https://learn.microsoft.com/en-us/iis/web-hosting/frequently-asked-questions-faq/general-iis7-questions

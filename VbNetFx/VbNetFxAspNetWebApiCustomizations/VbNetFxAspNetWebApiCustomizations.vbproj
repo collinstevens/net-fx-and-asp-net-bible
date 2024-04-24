@@ -7,11 +7,11 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{226148A7-5719-48A1-AB50-3331663C55EB}</ProjectGuid>
+    <ProjectGuid>{D7668BD3-E852-4E50-8EC9-7DFF52680C1B}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>VbNetFxAspNetWebApi</RootNamespace>
-    <AssemblyName>VbNetFxAspNetWebApi</AssemblyName>
+    <RootNamespace>VbNetFxAspNetWebApiCustomizations</RootNamespace>
+    <AssemblyName>VbNetFxAspNetWebApiCustomizations</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <OptionExplicit>On</OptionExplicit>
     <OptionCompare>Binary</OptionCompare>
@@ -20,7 +20,7 @@
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44329</IISExpressSSLPort>
+    <IISExpressSSLPort>44390</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -34,7 +34,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\</OutputPath>
-    <DocumentationFile>VbNetFxAspNetWebApi.xml</DocumentationFile>
+    <DocumentationFile>VbNetFxAspNetWebApiCustomizations.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -44,7 +44,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\</OutputPath>
-    <DocumentationFile>VbNetFxAspNetWebApi.xml</DocumentationFile>
+    <DocumentationFile>VbNetFxAspNetWebApiCustomizations.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <ItemGroup>
@@ -140,8 +140,21 @@
     <Import Include="System" />
     <Import Include="System.Collections" />
     <Import Include="System.Collections.Generic" />
+    <Import Include="System.Collections.ObjectModel" />
+    <Import Include="System.ComponentModel.DataAnnotations" />
     <Import Include="System.Data" />
+    <Import Include="System.Diagnostics.CodeAnalysis" />
+    <Import Include="System.Globalization" />
     <Import Include="System.Linq" />
+    <Import Include="System.Net.Http" />
+    <Import Include="System.Net.Http.Headers" />
+    <Import Include="System.Reflection" />
+    <Import Include="System.Threading" />
+    <Import Include="System.Threading.Tasks" />
+    <Import Include="System.Web.Http" />
+    <Import Include="System.Web.Http.Controllers" />
+    <Import Include="System.Web.Http.Description" />
+    <Import Include="System.Web.Optimization" />
     <Import Include="System.Xml.Linq" />
     <Import Include="System.Diagnostics" />
     <Import Include="System.Collections.Specialized" />
@@ -361,9 +374,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>63879</DevelopmentServerPort>
+          <DevelopmentServerPort>55648</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44329/</IISUrl>
+          <IISUrl>https://localhost:44390/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
