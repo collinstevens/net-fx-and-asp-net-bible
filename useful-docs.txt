@@ -68,3 +68,6 @@ https://www.leansentry.com/guide
 Bloggers
 https://mvolo.com/ (Mike Volodarsky, Lead Devleoper @ LeanSentry, previously @ Microsoft on IIS)
 https://www.tessferrandez.com/ (Principal Software Engineer at Microsoft)
+
+Books
+http://ter40.free.fr/ebooktmp/Professional%20Microsoft%20IIS%208.pdf
